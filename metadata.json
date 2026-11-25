@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Factor Healthcare Risk Prediction System",
+  "description": "Educational clinical decision-support dashboard analyzing multi-factor patient health parameters with four machine learning models, interactive preprocessing, 12 data visualizations, SQLite patient records, and downloadable PDF/CSV risk reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
